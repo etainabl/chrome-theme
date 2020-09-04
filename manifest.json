@@ -1,0 +1,28 @@
+{
+  "name": "Etainabl",
+  "version": "1.0",
+  "description": "",
+  "manifest_version": 2,
+  "theme": {
+    "images": {
+      "theme_frame": "images/theme_frame.png",
+      "theme_toolbar": "images/theme_toolbar.png",
+      "theme_tab_background": "images/theme_tab_background.png",
+      "theme_ntp_background": "images/theme_ntp_background.png"
+    },
+    "colors": {
+      "frame": [35, 50, 50],
+      "toolbar": [60, 78, 78],
+      "toolbar_button_icon": [248, 246, 234],
+      "tab_text": [248, 248, 248],
+      "tab_background_text": [233, 233, 233],
+      "bookmark_text": [248, 248, 248],
+      "ntp_background": [248, 246, 234],
+      "ntp_text": [53, 53, 53],
+      "ntp_link": [6, 55, 116],
+      "button_background": [0, 0, 0, 0]
+    },
+    "tints": { "buttons": [0.14, 0.5, 0.5] },
+    "properties": { "ntp_background_alignment": "bottom", "ntp_background_repeat": "no-repeat" }
+  }
+}
